@@ -8,7 +8,8 @@ Import the math module
 ### Step 2: 
 Define co-ordinates for which the distance is to be found
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.JPG)
+Substitute the values in the distance formula  
+![formula](/formula.JPG)
 ### Step 4: 
 Display the obtained answer from the distance formula upto 2 decimal places
 ### PROGRAM:
